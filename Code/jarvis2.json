@@ -1,0 +1,27 @@
+{"intents": [
+    {"tags": "greeting",
+    "pattern": ["hi", "hay", "are you there", "hello", "hi"]
+},
+    {"tags": "wkipedia",
+    "pattern": ["wikipedia", "define"]
+},
+    {"tags": "google",
+    "pattern": ["open google", "search on google"]
+},
+    {"tags": "gmail",
+    "pattern": ["open gmail", "send email"]
+},
+    {"tags": "youtube",
+    "pattern": ["open youtube"]
+},
+    {"tags": "github",
+    "pattern": ["open github", "github"]
+},
+    {"tags": "music",
+    "pattern": ["play music", "play song", "play songs"]
+},
+    {"tags": "greeting",
+    "pattern": ["hi", "hay", "are you there", "hello", "hi"]
+}
+
+]}
